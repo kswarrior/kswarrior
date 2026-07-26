@@ -2,47 +2,42 @@
 
 # ⚡ KS Warrior
 
-*Full-Stack AI Developer & Systems Architect*
+*vibe coder. building the future, one system at a time.*
 
 </div>
 
 ---
 
-## 🚀 The KS Ecosystem
+## 🚀 what i build
 
-I build performance-focused, sleek, and AI-integrated tooling for server management, networking, and databases.
-
-- **🌐 KS Panel** — Next-generation game server and VM control panel with Docker & KVM virtualization
-- **🦀 KS SSH** — High-performance, web-based terminal and secure port-forwarding built with Rust
-- **🛢️ KS SQL** — Lightning-fast database management tool for game servers and web apps
-- **🤖 KS AI** — Local AI model hosting and management infrastructure
-- **🕸️ KS Website** — Central hub with dark cyberpunk aesthetic and unified dashboard
+- **🌐 KS Panel** — next-gen game server & VM control panel (Docker + KVM vibes)
+- **🦀 KS SSH** — web terminal + port forwarding in Rust
+- **🛢️ KS SQL** — fast AF database tool for servers & apps
+- **🤖 KS AI** — local AI infrastructure, no cap
+- **🕸️ KS Website** — cyberpunk hub. dark. fast. elegant.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ the arsenal
 
-**Backend:** Node.js, Go, Rust, Bash  
-**Frontend:** EJS, Tailwind CSS, JavaScript  
-**DevOps:** Linux, Docker, KVM, Cloudflare, WebSockets
+Node.js • Go • Rust • Bash | EJS • Tailwind • JavaScript | Docker • KVM • WebSockets
 
 ---
 
-## 💬 Let's Connect
+## 💫 vibes
 
-<div align="center">
-
-👉 **Discord** | Nexus / Kingly SMP Community  
-👉 **YouTube** | @kswarrior
-
-</div>
+```
+AI-driven • High-performance • Secure networking • Self-hosting ecosystem
+```
 
 ---
 
 <div align="center">
 
-**⚡ Turning complex systems into beautifully simple, high-performance code.**
+**⚡ turning chaos into code**
 
-*Drop a ⭐ if you like the ecosystem!*
+[Discord](https://discord.gg) · [YouTube](https://youtube.com/@kswarrior)
+
+*drop a ⭐ if u vibe with it*
 
 </div>
