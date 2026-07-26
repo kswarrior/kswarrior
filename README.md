@@ -2,15 +2,6 @@
 
 # ⚡ Hi there, I'm **KS Warrior** 👋
 
-```json
-{
-  "name": "KS Warrior",
-  "role": "Full-Stack AI Developer & Systems Architect",
-  "tech_stack": ["Node.js", "Go", "Rust", "Bash"],
-  "mission": "Building the ultimate, AI-driven self-hosting ecosystem."
-}
-```
-
 </div>
 
 ---
