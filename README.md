@@ -256,14 +256,6 @@ Every legendary project starts somewhere. Your idea could be the next one.
 
 <br/>
 
-### 🔥 THE MINDSET
-
-`DISCIPLINE` · `CREATIVITY` · `PERSISTENCE` · `INDEPENDENCE`
-
-**Dream big. Start small. Build relentlessly.**
-
-<br/>
-
 ### 🌐 FIND ME ONLINE
 
 <a href="https://github.com/kswarrior">
