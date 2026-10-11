@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7A00FF,100:FF00E6&height=230&section=header&text=KS%20WARRIOR&fontSize=65&fontColor=FFFFFF&fontAlignY=35&desc=CODE%20%E2%80%A2%20AI%20%E2%80%A2%20MINECRAFT%20%E2%80%A2%20CREATIVITY&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="KS Warrior animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:303030,100:666666&height=230&section=header&text=KS%20WARRIOR&fontSize=65&fontColor=FFFFFF&fontAlignY=35&desc=CODE%20%E2%80%A2%20AI%20%E2%80%A2%20MINECRAFT%20%E2%80%A2%20CREATIVITY&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="KS Warrior animated header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=FULL-STACK+DEVELOPMENT;AI+%7C+LOCAL+LLMS+%7C+AUTOMATION;RUST+%7C+GO+%7C+NODE.JS;MINECRAFT+JAVA+%7C+BEDROCK%2FPE;BUILDING+THE+KS+ECOSYSTEM;THINK.+BUILD.+PLAY.+IMPROVE." alt="Animated KS Warrior introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B0B0B0&center=true&vCenter=true&width=850&lines=FULL-STACK+DEVELOPMENT;AI+%7C+LOCAL+LLMS+%7C+AUTOMATION;RUST+%7C+GO+%7C+NODE.JS;MINECRAFT+JAVA+%7C+BEDROCK%2FPE;BUILDING+THE+KS+ECOSYSTEM;THINK.+BUILD.+PLAY.+IMPROVE." alt="Animated KS Warrior introduction"/>
 
 
 <img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-00F5FF?style=for-the-badge&labelColor=0D1117" alt="Status"/>
@@ -186,7 +186,7 @@ Innovation	Experiment, learn, iterate, and improve.
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=BUILD.%20LEARN.%20PLAY.%20REPEAT.&fontSize=25&fontColor=00F5FF&animation=fadeIn" width="100%" alt="Build, learn, play, repeat"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=BUILD.%20LEARN.%20PLAY.%20REPEAT.&fontSize=25&fontColor=B0B0B0&animation=fadeIn" width="100%" alt="Build, learn, play, repeat"/>
 
 🐺 ONE PERSON. ONE VISION. ZERO LIMITS.
 You don't need a crowd to start. You need the courage to begin.
