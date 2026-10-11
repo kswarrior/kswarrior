@@ -256,22 +256,4 @@ Every legendary project starts somewhere. Your idea could be the next one.
 
 <br/>
 
-### 🌐 FIND ME ONLINE
-
-<a href="https://github.com/kswarrior">
-<img src="https://img.shields.io/badge/GitHub-Follow%20the%20journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://youtube.com/@ks_warrior_pro">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://www.instagram.com/ks_warrior_pro/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E6,50:7A00FF,100:00F5FF&height=120&section=footer" width="100%" alt="Cyberpunk gradient footer"/>
-
-</div>
-
 <!-- END OF KS WARRIOR README -->
