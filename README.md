@@ -33,9 +33,9 @@
 
 ---
 
-## `01` — WHO AM I?
+## KS Introduction
 
-> **I don't just write code. I build systems.**
+> **I am buildigs systems, not just write code**
 
 I'm **KS Warrior** — a developer focused on building powerful software, developer tools, AI infrastructure, and self-hosted systems.
 
