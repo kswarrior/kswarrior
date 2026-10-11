@@ -58,11 +58,9 @@ MISSION       → Turn ambitious ideas into working software.
 
 ---
 
-## `02` — THE KS ECOSYSTEM
+## THE KS ECOSYSTEM
 
 <div align="center">
-
-### ⚡ PROJECTS IN THE LAB ⚡
 
 </div>
 
@@ -147,7 +145,7 @@ The KS ecosystem is a continuous process of building, testing, improving, and ex
 
 ---
 
-## `03` — TECH ARSENAL
+## TECH ARSENAL
 
 <div align="center">
 
@@ -173,7 +171,7 @@ The KS ecosystem is a continuous process of building, testing, improving, and ex
 
 ---
 
-## `04` — GITHUB INTELLIGENCE
+## GITHUB INTELLIGENCE
 
 <div align="center">
 
@@ -193,7 +191,7 @@ The KS ecosystem is a continuous process of building, testing, improving, and ex
 
 ---
 
-## `05` — ENGINEERING PRINCIPLES
+## ENGINEERING PRINCIPLES
 
 <div align="center">
 
@@ -210,30 +208,77 @@ The KS ecosystem is a continuous process of building, testing, improving, and ex
 
 ---
 
-## `06` — CONNECT
+## ⚔️ COMMUNITY & MINDSET
 
 <div align="center">
 
-### GOT AN IDEA? LET'S BUILD SOMETHING.
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=BUILT%20ALONE.%20BUILT%20TO%20LAST.&fontSize=25&fontColor=00F5FF&animation=fadeIn" width="100%" alt="Built alone, built to last"/>
 
-Open-source software. Developer tools. Infrastructure. AI.
+### 🐺 ONE PERSON. ONE VISION. ZERO LIMITS.
 
-**The next great project starts with an idea.**
+**You don't need a crowd to start. You need the courage to begin.**
+
+*Work in silence. Learn relentlessly. Build something extraordinary.*
 
 <br/>
 
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🐧 LINUX
+
+Started by **Linus Torvalds**, Linux grew into a global open-source project powering systems around the world.
+
+</td>
+<td align="center" width="33%">
+
+### ⛏️ MINECRAFT
+
+Originally created by **Markus Persson**, Minecraft grew into one of the world's most recognizable games.
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ YOUR TURN
+
+Every legendary project starts somewhere. Your idea could be the next one.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> **"Never give up because you're alone.**
+>
+> **The biggest things can begin with one person who refuses to quit."**
+
+<br/>
+
+### 🔥 THE MINDSET
+
+`DISCIPLINE` · `CREATIVITY` · `PERSISTENCE` · `INDEPENDENCE`
+
+**Dream big. Start small. Build relentlessly.**
+
+<br/>
+
+### 🌐 FIND ME ONLINE
+
 <a href="https://github.com/kswarrior">
-<img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20the%20journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://youtube.com/@kswarrior">
-<img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+<a href="https://youtube.com/@ks_warrior_pro">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://www.instagram.com/ks_warrior_pro/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <br/><br/>
 
-**⚡ THINK DIFFERENT. BUILD BETTER. SHIP FASTER. ⚡**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E6,50:7A00FF,100:00F5FF&height=120&section=footer" width="100%" alt="Decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E6,50:7A00FF,100:00F5FF&height=120&section=footer" width="100%" alt="Cyberpunk gradient footer"/>
 
 </div>
 
