@@ -1,9 +1,5 @@
 <div align="center">
-
-# ⚡ KS Warrior
-
-*vibe coder. building the future, one system at a time.*
-
+# KS Warrior
 </div>
 
 ---
