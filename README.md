@@ -21,6 +21,9 @@
 <a href="https://discord.com/invite/jDG7tJrHrt">
 <img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
+<a href="https://www.instagram.com/ks_warrior_pro/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
 <br/>
 
