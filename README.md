@@ -130,12 +130,15 @@ MINECRAFT GAMING COMMUNITY
 <div align="center">
 
 LANGUAGES & DEVELOPMENT
+<br/>
 <img src="https://skillicons.dev/icons?i=go,rust,nodejs,js,bash,html,css&perline=7" alt="Programming language and development icons"/>
 
 FRAMEWORKS & WEB TECHNOLOGIES
+<br/>
 <img src="https://skillicons.dev/icons?i=tailwind,ejs&perline=7" alt="Web technology icons"/>
 
 INFRASTRUCTURE & TOOLS
+<br/>
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&perline=7" alt="Infrastructure and development tool icons"/>
 
 
