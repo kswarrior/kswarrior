@@ -1,8 +1,3 @@
- <!-- ===================================================== -->
-<!-- KS WARRIOR — CYBERPUNK PROFILE README -->
-<!-- Replace the Discord invite placeholder before publishing -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7A00FF,100:FF00E6&height=230&section=header&text=KS%20WARRIOR&fontSize=65&fontColor=FFFFFF&fontAlignY=35&desc=BUILDING%20THE%20FUTURE%20IN%20CODE&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="KS Warrior animated header"/>
@@ -20,10 +15,10 @@
 <a href="https://github.com/kswarrior">
 <img src="https://img.shields.io/badge/GitHub-kswarrior-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://youtube.com/@kswarrior">
+<a href="https://youtube.com/@ks_warrior_pro">
 <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
-<a href="https://discord.gg/YOUR_DISCORD_INVITE">
+<a href="https://discord.com/invite/jDG7tJrHrt">
 <img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
